@@ -5,12 +5,12 @@
     <img  height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGuia&layout=compact&langs_count=16&theme=dracula" /> 
 </div>
   
- <div style="display:inline-block"><br>
+ <div style="display:inline-block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" alt="js" height="30"  width="40" />
 
   
  </div>
-  <br>
+
 - 👨‍💻 Desenvolvedor Front-End
 - 🌱 Estudando Vue.js
 - 💬 Ask me about ...
