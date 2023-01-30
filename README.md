@@ -1,11 +1,4 @@
 ### Olá, eu sou Guilherme Guia
-
-- 👨‍💻 Desenvolvedor Front-End
-- 🌱 Estudando Vue.js
-- 💬 Ask me about ...
-- 📫 Contate-me no Email: guilhermeguia007@gmail.com
-
-
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
@@ -17,3 +10,11 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+
+- 👨‍💻 Desenvolvedor Front-End
+- 🌱 Estudando Vue.js
+- 💬 Ask me about ...
+- 📫 Contate-me no Email: guilhermeguia007@gmail.com
+
+
+
