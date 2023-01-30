@@ -21,7 +21,6 @@
 
 - 👨‍💻 Desenvolvedor Front-End
 - 🌱 Estudando Vue.js
-- 💬 Ask me about ...
 - 📫 Contate-me no Email: guilhermeguia007@gmail.com
 
 
