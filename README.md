@@ -7,9 +7,17 @@
   
  <div style="display:inline-block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" alt="js" height="30"  width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" align="center" alt="vue" height="30"  width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="center" alt="html" height="30"  width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="center" alt="css" height="30"  width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" align="center" alt="bootstrap" height="30"  width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"align="center" alt="mysql" height="30"  width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" align="center" alt="php" height="30"  width="40" />
 
   
  </div>
+  
+  <br>
 
 - 👨‍💻 Desenvolvedor Front-End
 - 🌱 Estudando Vue.js
