@@ -10,10 +10,7 @@
 
   
  </div>
-  
-  
-
-  
+  <br>
 - 👨‍💻 Desenvolvedor Front-End
 - 🌱 Estudando Vue.js
 - 💬 Ask me about ...
